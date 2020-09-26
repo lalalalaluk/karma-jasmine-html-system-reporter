@@ -193,7 +193,7 @@ jasmineRequire.HtmlReporter = function (j$) {
         createDom(
           'span',
           { className: 'jasmine-duration' },
-          'finished in ' + doneResult.totalTime / 1000 + 's'
+          'finished in ' + doneResult.totalTime / 1000 + 's,lalalalaluk'
         )
       );
 

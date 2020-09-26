@@ -35,5 +35,5 @@ var initReporter = function (karmaConfig, baseReporterDecorator) {
 initReporter.$inject = ['config', 'baseReporterDecorator'];
 
 module.exports = {
-  'reporter:kjhtml': ['type', initReporter]
+  'reporter:kjshtml': ['type', initReporter]
 };

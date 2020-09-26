@@ -1,0 +1,1 @@
+# karma-jasmine-html-system-reporter

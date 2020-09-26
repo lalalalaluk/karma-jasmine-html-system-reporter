@@ -1,0 +1,31 @@
+{
+  "name": "karma-jasmine-html-system-reporter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "node build/build.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lalalalaluk/karma-jasmine-html-system-reporter.git"
+  },
+  "keywords": [
+    "karma"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lalalalaluk/karma-jasmine-html-system-reporter/issues"
+  },
+  "homepage": "https://github.com/lalalalaluk/karma-jasmine-html-system-reporter#readme",
+  "peerDependencies": {
+    "karma": ">=0.9",
+    "karma-jasmine": ">=1.1",
+    "jasmine-core": ">=3.5"
+  },
+  "dependencies": {
+    "chalk": "*",
+    "jasmine-core": ">=3.5"
+  }
+}
